@@ -1,2 +1,2 @@
-# Caeser-Shift
-Simple Caseser shift program.
+# Caesar-Shift
+Simple Caesar shift program.
