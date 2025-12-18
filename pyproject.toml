@@ -1,0 +1,12 @@
+[project]
+name = "caesar-shift"
+version = "0.1.0"
+description = "Simple Caesar shift program."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.10",
+]
